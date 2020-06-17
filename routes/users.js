@@ -73,7 +73,8 @@ passport.use(new LocalStrategy(
          }
 
          User.comparePassword(password, user.password, function(err, isMatch){
-
+console.log(user.password);
+console.log(password);
             if(err) throw err;
             if(isMatch) {
 

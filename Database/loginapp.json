@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "5ec9821ab0991c382887ee13"
+  },
+  "name": "Kenneth Wakoko",
+  "email": "wakokoken@gmail.com",
+  "username": "Ken",
+  "password": "$2a$10$sfLSJ37/We7KvHr8uUBMbOSzBsZEgLFYza0uCtMeeG9ZSKvqFdgj6",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ee8b8bb419b000d0c6e3e02"
+  },
+  "name": "Brenda",
+  "email": "bren@gmail.com",
+  "username": "bren",
+  "password": "$2a$10$20c/3iNDq.MmAbaF9YBEOesPSBfoFJMEoNg177RodMebLnKHy3xZW",
+  "__v": 0
+}]
